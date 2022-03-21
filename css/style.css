@@ -1,0 +1,33 @@
+body .intro {
+    background-color:rgb(226, 216, 174);
+    margin: 0.3% 0%;
+    padding: 2%;
+    background-image:url(../img/IMG_6332.JPG);
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 89%;
+}
+
+.intro h1 {
+    text-align: center;
+    text-shadow: wheat;
+    text-transform:uppercase ;
+    color: wheat;
+    font-size: 450%;
+}
+
+.intro #par{
+    text-align: center;
+    margin: -55px 0 0 0 ;
+    color: wheat;
+    font-size: 380%;
+    font-style: italic;
+}
+
+.intro #par2{
+    margin: -3px 0 0 0 ;
+    text-align: center;
+    color: wheat;
+    font-size: 166%;
+    padding-bottom: 2%;
+}
